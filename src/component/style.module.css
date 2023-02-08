@@ -1,0 +1,42 @@
+.button-blue{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 0.5em;
+}
+.button-red{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 0.5em;
+
+
+}
+.button-black{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 0.5em;
+
+}
